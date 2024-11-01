@@ -1,0 +1,636 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lightbox slider - Responsive Lightbox Gallery.\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-01 06:52+0000\n"
+"PO-Revision-Date: 2024-05-01 06:52+0000\n"
+"Last-Translator: \n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.5.2\n"
+"X-Domain: weblizar-image-gallery"
+
+#: help_and_support.php:39
+msgid " for translate this plugin into your language"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:409
+msgid "500+"
+msgstr "500+"
+
+#: simple-lightbox-slider-setting-metabox.php:314
+msgid ": 400x400px"
+msgstr ": 400x400px"
+
+#: simple-lightbox-slider-setting-metabox.php:312
+msgid ": 500x500px"
+msgstr ": 500x500px"
+
+#: simple-lightbox-gallery.php:273 simple-lightbox-gallery.php:274
+msgid "Add Images"
+msgstr "छवियों को जोड़ने"
+
+#: simple-lightbox-gallery.php:211
+msgid "Add Lightbox Gallery"
+msgstr "जोड़ें Lightbox गैलरी"
+
+#: simple-lightbox-gallery.php:401
+msgid "Add New Images"
+msgstr "नए छवियों को जोड़ने"
+
+#: simple-lightbox-gallery.php:210
+msgid "Add New Lightbox Gallery"
+msgstr "नई जोड़ें Lightbox गैलरी"
+
+#: simple-lightbox-gallery.php:208
+msgid "All Galleries"
+msgstr "सभी दीर्घाओं"
+
+#: help_and_support.php:37
+msgid "Answer"
+msgstr "जवाब"
+
+#: simple-lightbox-gallery.php:284 simple-lightbox-gallery.php:285
+msgid "Apply Setting On Lightbox Gallery"
+msgstr "आवेदन की स्थापना पर Lightbox गैलरी"
+
+#: simple-lightbox-slider-setting-metabox.php:375
+msgid "Arial"
+msgstr "एरियल"
+
+#: simple-lightbox-slider-setting-metabox.php:376
+msgid "Arial Black"
+msgstr "एरियल काले"
+
+#: simple-lightbox-gallery.php:251
+msgid "Author"
+msgstr "लेखक"
+
+#: simple-lightbox-slider-setting-metabox.php:371
+msgid "Caption Font Style"
+msgstr "शीर्षक फ़ॉन्ट शैली"
+
+#: help_and_support.php:43
+msgid "Change Old Server Image URL"
+msgstr "बदलें पुराने सर्वर छवि URL"
+
+#: simple-lightbox-slider-setting-metabox.php:406
+msgid "Choose a caption font style"
+msgstr "चुनें एक शीर्षक फ़ॉन्ट शैली"
+
+#: simple-lightbox-slider-setting-metabox.php:284
+msgid "Choose a column layout for image gallery"
+msgstr "चुनें कॉलम लेआउट के लिए छवि गैलरी"
+
+#: simple-lightbox-slider-setting-metabox.php:248
+msgid "Choose an animation effect apply on images after mouse hover."
+msgstr "चुनें एक एनीमेशन प्रभाव छवियों पर लागू करने के बाद माउस हॉवर."
+
+#: simple-lightbox-slider-setting-metabox.php:225
+msgid "Choose an image Title style."
+msgstr "एक छवि का चयन करें शीर्षक शैली."
+
+#: simple-lightbox-gallery.php:333
+msgid "Click Here"
+msgstr "यहाँ क्लिक करें"
+
+#: help_and_support.php:38
+msgid "Contact as to"
+msgstr "संपर्क के रूप में करने के लिए"
+
+#: simple-lightbox-slider-setting-metabox.php:378
+msgid "Courier New"
+msgstr "कूरियर नई"
+
+#: simple-lightbox-slider-setting-metabox.php:380
+msgid "Cursive"
+msgstr "घसीट"
+
+#: simple-lightbox-slider-setting-metabox.php:433
+msgid "Custom CSS"
+msgstr "कस्टम सीएसएस"
+
+#: simple-lightbox-gallery.php:252
+msgid "Date"
+msgstr "तारीख"
+
+#: simple-lightbox-gallery.php:408
+msgid "Delete All"
+msgstr "उन सभी को हटा दें"
+
+#: simple-lightbox-gallery.php:383 simple-lightbox-gallery.php:384
+#: simple-lightbox-gallery.php:471 simple-lightbox-gallery.php:472
+msgid "Description"
+msgstr "विवरण"
+
+#: simple-lightbox-slider-setting-metabox.php:184
+msgid "Description Font Color"
+msgstr "विवरण फ़ॉन्ट रंग"
+
+#: simple-lightbox-gallery.php:419
+msgid ""
+"Do not use or add pre uploaded images which are uploaded previously using "
+"Media or Post or Page"
+msgstr ""
+"नहीं का उपयोग करें या जोड़ने के लिए पूर्व में अपलोड की गई छवियों को अपलोड कर "
+"रहे हैं जो इससे पहले मीडिया का उपयोग करने या पद या पृष्ठ"
+
+#: simple-lightbox-gallery.php:212
+msgid "Edit Lightbox Gallery"
+msgstr "संपादित करें Lightbox गैलरी"
+
+#: simple-lightbox-slider-setting-metabox.php:441
+msgid "Enter any custom css you want to apply on this gallery."
+msgstr "प्रवेश किसी भी कस्टम सीएसएस आप चाहते हैं पर लागू करने के लिए इस गैलरी."
+
+#: simple-lightbox-slider-setting-metabox.php:381
+msgid "Fantasy"
+msgstr "कल्पना"
+
+#: simple-lightbox-gallery.php:222
+msgid "Free Lightbox Gallery"
+msgstr "मुक्त Lightbox गैलरी"
+
+#: simple-lightbox-gallery.php:249
+msgid "Gallery"
+msgstr "गैलरी"
+
+#: simple-lightbox-slider-setting-metabox.php:269
+msgid "Gallery Layout"
+msgstr "गैलरी लेआउट"
+
+#: simple-lightbox-gallery.php:250
+msgid "Gallery Shortcode"
+msgstr "गैलरी शोर्ट"
+
+#: simple-lightbox-slider-setting-metabox.php:136
+msgid "Gallery Title Color"
+msgstr "गैलरी शीर्षक रंग"
+
+#: simple-lightbox-slider-setting-metabox.php:382
+msgid "Georgia"
+msgstr "जॉर्जिया"
+
+#: simple-lightbox-slider-setting-metabox.php:408
+msgid "Get"
+msgstr "प्राप्त"
+
+#: simple-lightbox-slider-setting-metabox.php:286
+msgid "Get More Gallery Layout"
+msgstr "अधिक गैलरी लेआउट"
+
+#: simple-lightbox-slider-setting-metabox.php:250
+msgid "Get More Hover Animation"
+msgstr "अधिक मंडराना एनीमेशन"
+
+#: simple-lightbox-slider-setting-metabox.php:226
+msgid "Get More Lightbox"
+msgstr "अधिक Lightbox"
+
+#: simple-lightbox-gallery.php:706
+msgid "Get Premium"
+msgstr "प्राप्त प्रीमियम"
+
+#: simple-lightbox-slider-setting-metabox.php:409
+msgid "Google Fonts"
+msgstr "गूगल फ़ॉन्ट्स"
+
+#: simple-lightbox-slider-setting-metabox.php:383
+msgid "Grande"
+msgstr "ग्रांदे में"
+
+#: simple-lightbox-gallery.php:42
+msgid "Help and Support"
+msgstr "मदद और समर्थन"
+
+#: simple-lightbox-slider-setting-metabox.php:384
+msgid ""
+"Helvetica\n"
+"                        Neue"
+msgstr "Helvetica Neue"
+
+#: simple-lightbox-slider-setting-metabox.php:319
+msgid "Hover Color"
+msgstr "मंडराना रंग"
+
+#: simple-lightbox-slider-setting-metabox.php:352
+msgid "Hover Color Opacity"
+msgstr "मंडराना रंग अस्पष्टता"
+
+#: help_and_support.php:36
+msgid "How to convert Plugin into My Language "
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/simple-lightbox-gallery/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.weblizar.com"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:309
+msgid ""
+"If Same Size Thumbnail option selected than minimum image size required in "
+"following layouts"
+msgstr ""
+"यदि एक ही आकार के थंबनेल विकल्प चयनित की तुलना में न्यूनतम छवि आकार में "
+"आवश्यक निम्न लेआउट"
+
+#: help_and_support.php:14
+msgid "If you are enjoying using our"
+msgstr "अगर आप का आनंद ले रहे हैं का उपयोग हमारे"
+
+#: help_and_support.php:30
+msgid ""
+"If you have any suggestion or features in your mind then please share us"
+msgstr "अगर आप किसी भी सुझाव या सुविधाओं में अपने मन तो कृपया हमसे साझा करें"
+
+#: simple-lightbox-gallery.php:324
+msgid "If you like our plugin then please show us some love"
+msgstr "यदि आप हमारे प्लगइन की तरह हैं, तो कृपया हमें कुछ प्यार दिखाने"
+
+#: simple-lightbox-slider-setting-metabox.php:414
+msgid "Image Box Shadow"
+msgstr "छवि बॉक्स छाया"
+
+#: simple-lightbox-slider-setting-metabox.php:235
+msgid "Image Hover Animation"
+msgstr "छवि मंडराना एनीमेशन"
+
+#: simple-lightbox-slider-setting-metabox.php:177
+msgid "Image Label Color"
+msgstr "लेबल का रंग छवि"
+
+#: simple-lightbox-slider-setting-metabox.php:190
+msgid "Image Link Background Color"
+msgstr "छवि पृष्ठभूमि रंग लिंक"
+
+#: simple-lightbox-slider-setting-metabox.php:196
+msgid "Image Link Font Color"
+msgstr "छवि लिंक फ़ॉन्ट रंग"
+
+#: simple-lightbox-slider-setting-metabox.php:203
+msgid "Image Link Title"
+msgstr "छवि शीर्षक लिंक"
+
+#: simple-lightbox-slider-setting-metabox.php:387
+msgid "Impact"
+msgstr "प्रभाव"
+
+#: simple-lightbox-slider-setting-metabox.php:169
+msgid "In New Tab"
+msgstr "नए टैब में"
+
+#: simple-lightbox-slider-setting-metabox.php:166
+msgid "In Same Tab"
+msgstr "में एक ही टैब"
+
+#: simple-lightbox-gallery.php:690
+msgid "Insert Gallery Shortcode"
+msgstr "सम्मिलित गैलरी शोर्ट"
+
+#: help_and_support.php:33
+msgid "Language Contribution"
+msgstr "भाषा योगदान"
+
+#: simple-lightbox-slider-setting-metabox.php:214
+msgid "Light Box Styles"
+msgstr "प्रकाश बॉक्स शैलियों"
+
+#: simple-lightbox-slider-setting-metabox.php:220
+msgid "light Gallery"
+msgstr "प्रकाश गैलरी"
+
+#: simple-lightbox-gallery.php:204 simple-lightbox-gallery.php:205
+msgid "Lightbox Gallery"
+msgstr "Lightbox गैलरी"
+
+#: simple-lightbox-gallery.php:295 simple-lightbox-gallery.php:296
+msgid "Lightbox Gallery Shortcode"
+msgstr "Lightbox गैलरी शोर्ट"
+
+#. Name of the plugin
+msgid "Lightbox slider - Responsive Lightbox Gallery."
+msgstr "Lightbox स्लाइडर - उत्तरदायी Lightbox गैलरी."
+
+#. Description of the plugin
+msgid ""
+"Lightbox slider plugin is allow users to view larger versions of images, "
+"simple slide shows and Gallery view with grid layout."
+msgstr ""
+"Lightbox स्लाइडर प्लगइन उपयोगकर्ताओं की अनुमति दें करने के लिए बड़ा देखने के "
+"संस्करणों में छवियों, सरल स्लाइड शो और गैलरी दृश्य के साथ ग्रिड लेआउट । "
+
+#: simple-lightbox-slider-setting-metabox.php:111
+msgid "Lightbox Slider Settings"
+msgstr "Lightbox स्लाइडर सेटिंग्स"
+
+#: help_and_support.php:39
+msgid "lizarweb@gmail.com"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:388
+msgid "Lucida"
+msgstr "ल्युसिडा"
+
+#: simple-lightbox-slider-setting-metabox.php:389
+msgid ""
+"Lucida\n"
+"                        Console"
+msgstr "ल्युसिडा कंसोल"
+
+#: simple-lightbox-slider-setting-metabox.php:311
+msgid "Minimum image size required in 2 Column Gallery Layout"
+msgstr "न्यूनतम छवि के लिए आकार में 2 कॉलम गैलरी लेआउट"
+
+#: simple-lightbox-slider-setting-metabox.php:313
+msgid "Minimum image size required in 3 Column Gallery Layout"
+msgstr "न्यूनतम छवि आकार में आवश्यक 3 कॉलम गैलरी लेआउट"
+
+#: simple-lightbox-slider-setting-metabox.php:392
+msgid "Monospace"
+msgstr "मोनोस्पेस"
+
+#: simple-lightbox-gallery.php:213
+msgid "New Gallery"
+msgstr "नई गैलरी"
+
+#: simple-lightbox-gallery.php:695
+msgid "No Gallery Found"
+msgstr "कोई गैलरी पाया"
+
+#: simple-lightbox-gallery.php:216
+msgid "No Lightbox Gallery Found"
+msgstr "कोई Lightbox गैलरी पाया"
+
+#: simple-lightbox-gallery.php:217
+msgid "No Lightbox Gallery found in Trash"
+msgstr "कोई Lightbox गैलरी में पाया कचरा"
+
+#: simple-lightbox-slider-shortcode.php:335
+msgid "No Photo Found In Photo Gallery"
+msgstr "कोई फोटो में पाया फोटो गैलरी"
+
+#: simple-lightbox-gallery.php:118
+msgid "No Title"
+msgstr "कोई शीर्षक"
+
+#: simple-lightbox-slider-setting-metabox.php:443
+msgid "Note"
+msgstr "नोट"
+
+#: help_and_support.php:51
+msgid "Note :"
+msgstr "ध्यान दें :"
+
+#: simple-lightbox-slider-setting-metabox.php:162
+msgid "Open Link"
+msgstr "लिंक खोलें"
+
+#: simple-lightbox-slider-setting-metabox.php:393
+msgid "Open Sans"
+msgstr "ओपन सेन्स"
+
+#: simple-lightbox-slider-setting-metabox.php:394
+msgid "Palatino"
+msgstr "Palatino"
+
+#: simple-lightbox-gallery.php:207
+msgid "Parent Item:"
+msgstr "माता पिता के आइटम:"
+
+#: simple-lightbox-slider-setting-metabox.php:444
+msgid "Please Do Not Use"
+msgstr "कृपया का उपयोग नहीं करते"
+
+#: help_and_support.php:15
+msgid "plugin and find it useful"
+msgstr "प्लगइन और इसे उपयोगी पाते हैं"
+
+#: simple-lightbox-gallery.php:417
+msgid "Plugin crop images with same size thumbnails"
+msgstr "प्लगइन छवियों फसल के साथ एक ही आकार के थंबनेल"
+
+#: help_and_support.php:8
+msgid "plugin is allow users to view larger versions of images,"
+msgstr ""
+"प्लगइन उपयोगकर्ताओं की अनुमति दें करने के लिए बड़ा देखने के संस्करणों छवियों,"
+
+#: help_and_support.php:35
+msgid "Question"
+msgstr "सवाल"
+
+#: simple-lightbox-gallery.php:421 help_and_support.php:13
+msgid "Rate Us"
+msgstr "अमेरिका की दर"
+
+#: simple-lightbox-gallery.php:307 simple-lightbox-gallery.php:308
+msgid "Rate us on WordPress"
+msgstr "पर अमेरिका की दर WordPress"
+
+#: simple-lightbox-gallery.php:206
+msgid "S. Lightbox Gallery"
+msgstr "एस Lightbox गैलरी"
+
+#: simple-lightbox-slider-setting-metabox.php:395
+msgid "Sans"
+msgstr "संस"
+
+#: simple-lightbox-slider-setting-metabox.php:396
+msgid "Sans-Serif"
+msgstr "Sans-Serif"
+
+#: simple-lightbox-gallery.php:215
+msgid "Search Gallery"
+msgstr "खोज गैलरी"
+
+#: simple-lightbox-slider-setting-metabox.php:307
+msgid "Select an option for thumbnail layout setting"
+msgstr "एक विकल्प का चयन करें के लिए थंबनेल लेआउट सेटिंग"
+
+#: simple-lightbox-gallery.php:669
+msgid "Select Lightbox Gallery To Insert Into Post"
+msgstr "का चयन करें Lightbox गैलरी सम्मिलित करने के लिए, पोस्ट में"
+
+#: simple-lightbox-gallery.php:628
+msgid "Select Lightbox Gallery to insert into post"
+msgstr "का चयन करें Lightbox गैलरी सम्मिलित करने के लिए, पोस्ट में"
+
+#: simple-lightbox-slider-setting-metabox.php:171
+msgid "Select option to open link in save tab or in new tab"
+msgstr "विकल्प का चयन करने के लिए खोलने में लिंक सहेजें टैब या नए टैब में"
+
+#: simple-lightbox-slider-setting-metabox.php:365
+msgid "Select Yes/No option for hover color opacity on images"
+msgstr "चयन करें हाँ/नहीं विकल्प के लिए हॉवर रंग अस्पष्टता पर छवियों"
+
+#: simple-lightbox-slider-setting-metabox.php:265
+msgid "Select Yes/No option to hide or show gallery description"
+msgstr ""
+"चयन करें हाँ/नहीं करने के लिए विकल्प को छुपाने या दिखाने के लिए गैलरी विवरण"
+
+#: simple-lightbox-slider-setting-metabox.php:131
+msgid "Select Yes/No option to hide or show gallery title"
+msgstr ""
+"चयन करें हाँ/नहीं करने के लिए विकल्प को छुपाने या दिखाने के लिए गैलरी शीर्षक"
+
+#: simple-lightbox-slider-setting-metabox.php:427
+msgid "Select Yes/No option to hide or show Image Box Shadow"
+msgstr ""
+"चयन करें हाँ/नहीं करने के लिए विकल्प को छुपाने या दिखाने के लिए छवि बॉक्स "
+"छाया"
+
+#: simple-lightbox-slider-setting-metabox.php:156
+msgid "Select Yes/No option to hide or show label on image"
+msgstr ""
+"चयन करें हाँ/नहीं करने के लिए विकल्प को छुपाने या दिखाने पर लेबल की छवि"
+
+#: simple-lightbox-gallery.php:707
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: help_and_support.php:29
+msgid "Share Us Your Suggestion"
+msgstr "हमें अपने सुझाव साझा करें"
+
+#: simple-lightbox-slider-setting-metabox.php:118
+msgid "Show Gallery Title"
+msgstr "शो गैलरी शीर्षक"
+
+#: simple-lightbox-slider-setting-metabox.php:254
+msgid "Show Image Description"
+msgstr "शो छवि विवरण"
+
+#: simple-lightbox-slider-setting-metabox.php:143
+msgid "Show Image Label"
+msgstr "शो छवि लेबल"
+
+#: simple-lightbox-slider-setting-metabox.php:306
+msgid "Show Original Image As Thumbnails"
+msgstr "शो के रूप में मूल छवि थंबनेल"
+
+#: simple-lightbox-gallery.php:420
+msgid "Show Us Some Love"
+msgstr "हमें कुछ प्यार दिखाने"
+
+#: help_and_support.php:6 help_and_support.php:14 help_and_support.php:52
+msgid "Simple Lightbox Gallery"
+msgstr "सरल Lightbox गैलरी"
+
+#: simple-lightbox-gallery.php:630
+msgid "Simple Lightbox Gallery Shortcode"
+msgstr "सरल Lightbox गैलरी शोर्ट"
+
+#: help_and_support.php:8
+msgid "simple slide shows and Gallery view with grid layout"
+msgstr "सरल स्लाइड शो और गैलरी दृश्य के साथ ग्रिड लेआउट"
+
+#: simple-lightbox-gallery.php:418
+msgid "So please upload all gallery images using Add New Image button"
+msgstr "तो कृपया सभी अपलोड गैलरी छवियों का उपयोग कर नई छवि जोड़ें बटन"
+
+#: simple-lightbox-slider-setting-metabox.php:244
+msgid "Stroke"
+msgstr "स्ट्रोक"
+
+#: simple-lightbox-slider-setting-metabox.php:445
+msgid "Style"
+msgstr "शैली"
+
+#: simple-lightbox-slider-setting-metabox.php:229
+msgid ""
+"Swipe box lib. No longer Supported Wordpress 5.6 so we changed it to Light "
+"Gallery "
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:445
+msgid "Tag With Custom CSS"
+msgstr "टैग के साथ कस्टम सीएसएस"
+
+#: simple-lightbox-slider-setting-metabox.php:397
+msgid "Tahoma"
+msgstr "Tahoma"
+
+#: simple-lightbox-slider-setting-metabox.php:330
+msgid "Text Background Color"
+msgstr "पाठ पृष्ठभूमि रंग"
+
+#: help_and_support.php:16
+msgid "then please consider writing a positive feedback"
+msgstr "फिर लिखने पर विचार कृपया एक सकारात्मक प्रतिक्रिया"
+
+#: simple-lightbox-slider-setting-metabox.php:281
+msgid "Three Column"
+msgstr "तीन स्तंभ"
+
+#: simple-lightbox-slider-setting-metabox.php:290
+msgid "Thumbnail Layout"
+msgstr "थंबनेल लेआउट"
+
+#: simple-lightbox-slider-setting-metabox.php:398
+msgid ""
+"Times New\n"
+"                        Roman"
+msgstr "टाइम्स न्यू रोमन"
+
+#: simple-lightbox-gallery.php:416
+msgid "Tips"
+msgstr "युक्तियाँ"
+
+#: help_and_support.php:52
+msgid "to change old server image url to new server image url"
+msgstr "बदलने के लिए पुराने सर्वर छवि यूआरएल के लिए नए सर्वर छवि url"
+
+#: help_and_support.php:34
+msgid "Translate this plugin into your language"
+msgstr "का अनुवाद इस प्लगइन अपनी भाषा में"
+
+#: simple-lightbox-slider-setting-metabox.php:401
+msgid "Trebuchet MS"
+msgstr "Trebuchet MS"
+
+#: simple-lightbox-slider-setting-metabox.php:278
+msgid "Two Column"
+msgstr "दो कॉलम"
+
+#: simple-lightbox-gallery.php:214
+msgid "Update Lightbox Gallery"
+msgstr "अद्यतन Lightbox गैलरी"
+
+#: help_and_support.php:51
+msgid "Use this option after import"
+msgstr "इस विकल्प का उपयोग करने के बाद आयात"
+
+#: simple-lightbox-slider-setting-metabox.php:403
+msgid "Verdana"
+msgstr "Verdana"
+
+#: simple-lightbox-gallery.php:209
+msgid "View Gallery"
+msgstr "देखें गैलरी"
+
+#: help_and_support.php:31
+msgid "We will try our best to add them in this plugin"
+msgstr "हम अपनी पूरी कोशिश करेंगे उन्हें जोड़ने के लिए इस प्लगइन में"
+
+#. Author of the plugin
+msgid "Weblizar"
+msgstr "Weblizar"
+
+#: simple-lightbox-slider-setting-metabox.php:208
+msgid "Write button title"
+msgstr "लिखें बटन शीर्षक"
+
+#: help_and_support.php:17
+msgid ""
+"Your feedback will help us to encourage and support the plugin continued "
+"development and better user support"
+msgstr ""
+"आपकी प्रतिक्रिया हमें मदद मिलेगी के लिए प्रोत्साहित करते हैं और समर्थन "
+"प्लगइन निरंतर विकास और बेहतर उपयोगकर्ता समर्थन"

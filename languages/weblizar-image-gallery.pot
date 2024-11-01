@@ -1,0 +1,623 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lightbox slider - Responsive Lightbox Gallery.\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-01 06:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.5.2\n"
+"X-Domain: weblizar-image-gallery"
+
+#: help_and_support.php:39
+msgid " for translate this plugin into your language"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:409
+msgid "500+"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:314
+msgid ": 400x400px"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:312
+msgid ": 500x500px"
+msgstr ""
+
+#: simple-lightbox-gallery.php:273 simple-lightbox-gallery.php:274
+msgid "Add Images"
+msgstr ""
+
+#: simple-lightbox-gallery.php:211
+msgid "Add Lightbox Gallery"
+msgstr ""
+
+#: simple-lightbox-gallery.php:401
+msgid "Add New Images"
+msgstr ""
+
+#: simple-lightbox-gallery.php:210
+msgid "Add New Lightbox Gallery"
+msgstr ""
+
+#: simple-lightbox-gallery.php:208
+msgid "All Galleries"
+msgstr ""
+
+#: help_and_support.php:37
+msgid "Answer"
+msgstr ""
+
+#: simple-lightbox-gallery.php:284 simple-lightbox-gallery.php:285
+msgid "Apply Setting On Lightbox Gallery"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:375
+msgid "Arial"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:376
+msgid "Arial Black"
+msgstr ""
+
+#: simple-lightbox-gallery.php:251
+msgid "Author"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:371
+msgid "Caption Font Style"
+msgstr ""
+
+#: help_and_support.php:43
+msgid "Change Old Server Image URL"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:406
+msgid "Choose a caption font style"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:284
+msgid "Choose a column layout for image gallery"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:248
+msgid "Choose an animation effect apply on images after mouse hover."
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:225
+msgid "Choose an image Title style."
+msgstr ""
+
+#: simple-lightbox-gallery.php:333
+msgid "Click Here"
+msgstr ""
+
+#: help_and_support.php:38
+msgid "Contact as to"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:378
+msgid "Courier New"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:380
+msgid "Cursive"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:433
+msgid "Custom CSS"
+msgstr ""
+
+#: simple-lightbox-gallery.php:252
+msgid "Date"
+msgstr ""
+
+#: simple-lightbox-gallery.php:408
+msgid "Delete All"
+msgstr ""
+
+#: simple-lightbox-gallery.php:383 simple-lightbox-gallery.php:384
+#: simple-lightbox-gallery.php:471 simple-lightbox-gallery.php:472
+msgid "Description"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:184
+msgid "Description Font Color"
+msgstr ""
+
+#: simple-lightbox-gallery.php:419
+msgid ""
+"Do not use or add pre uploaded images which are uploaded previously using "
+"Media or Post or Page"
+msgstr ""
+
+#: simple-lightbox-gallery.php:212
+msgid "Edit Lightbox Gallery"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:441
+msgid "Enter any custom css you want to apply on this gallery."
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:381
+msgid "Fantasy"
+msgstr ""
+
+#: simple-lightbox-gallery.php:222
+msgid "Free Lightbox Gallery"
+msgstr ""
+
+#: simple-lightbox-gallery.php:249
+msgid "Gallery"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:269
+msgid "Gallery Layout"
+msgstr ""
+
+#: simple-lightbox-gallery.php:250
+msgid "Gallery Shortcode"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:136
+msgid "Gallery Title Color"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:382
+msgid "Georgia"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:408
+msgid "Get"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:286
+msgid "Get More Gallery Layout"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:250
+msgid "Get More Hover Animation"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:226
+msgid "Get More Lightbox"
+msgstr ""
+
+#: simple-lightbox-gallery.php:706
+msgid "Get Premium"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:409
+msgid "Google Fonts"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:383
+msgid "Grande"
+msgstr ""
+
+#: simple-lightbox-gallery.php:42
+msgid "Help and Support"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:384
+msgid ""
+"Helvetica\n"
+"                        Neue"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:319
+msgid "Hover Color"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:352
+msgid "Hover Color Opacity"
+msgstr ""
+
+#: help_and_support.php:36
+msgid "How to convert Plugin into My Language "
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/simple-lightbox-gallery/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.weblizar.com"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:309
+msgid ""
+"If Same Size Thumbnail option selected than minimum image size required in "
+"following layouts"
+msgstr ""
+
+#: help_and_support.php:14
+msgid "If you are enjoying using our"
+msgstr ""
+
+#: help_and_support.php:30
+msgid ""
+"If you have any suggestion or features in your mind then please share us"
+msgstr ""
+
+#: simple-lightbox-gallery.php:324
+msgid "If you like our plugin then please show us some love"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:414
+msgid "Image Box Shadow"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:235
+msgid "Image Hover Animation"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:177
+msgid "Image Label Color"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:190
+msgid "Image Link Background Color"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:196
+msgid "Image Link Font Color"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:203
+msgid "Image Link Title"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:387
+msgid "Impact"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:169
+msgid "In New Tab"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:166
+msgid "In Same Tab"
+msgstr ""
+
+#: simple-lightbox-gallery.php:690
+msgid "Insert Gallery Shortcode"
+msgstr ""
+
+#: help_and_support.php:33
+msgid "Language Contribution"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:214
+msgid "Light Box Styles"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:220
+msgid "light Gallery"
+msgstr ""
+
+#: simple-lightbox-gallery.php:204 simple-lightbox-gallery.php:205
+msgid "Lightbox Gallery"
+msgstr ""
+
+#: simple-lightbox-gallery.php:295 simple-lightbox-gallery.php:296
+msgid "Lightbox Gallery Shortcode"
+msgstr ""
+
+#. Name of the plugin
+msgid "Lightbox slider - Responsive Lightbox Gallery."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Lightbox slider plugin is allow users to view larger versions of images, "
+"simple slide shows and Gallery view with grid layout."
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:111
+msgid "Lightbox Slider Settings"
+msgstr ""
+
+#: help_and_support.php:39
+msgid "lizarweb@gmail.com"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:388
+msgid "Lucida"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:389
+msgid ""
+"Lucida\n"
+"                        Console"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:311
+msgid "Minimum image size required in 2 Column Gallery Layout"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:313
+msgid "Minimum image size required in 3 Column Gallery Layout"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:392
+msgid "Monospace"
+msgstr ""
+
+#: simple-lightbox-gallery.php:213
+msgid "New Gallery"
+msgstr ""
+
+#: simple-lightbox-gallery.php:695
+msgid "No Gallery Found"
+msgstr ""
+
+#: simple-lightbox-gallery.php:216
+msgid "No Lightbox Gallery Found"
+msgstr ""
+
+#: simple-lightbox-gallery.php:217
+msgid "No Lightbox Gallery found in Trash"
+msgstr ""
+
+#: simple-lightbox-slider-shortcode.php:335
+msgid "No Photo Found In Photo Gallery"
+msgstr ""
+
+#: simple-lightbox-gallery.php:118
+msgid "No Title"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:443
+msgid "Note"
+msgstr ""
+
+#: help_and_support.php:51
+msgid "Note :"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:162
+msgid "Open Link"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:393
+msgid "Open Sans"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:394
+msgid "Palatino"
+msgstr ""
+
+#: simple-lightbox-gallery.php:207
+msgid "Parent Item:"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:444
+msgid "Please Do Not Use"
+msgstr ""
+
+#: help_and_support.php:15
+msgid "plugin and find it useful"
+msgstr ""
+
+#: simple-lightbox-gallery.php:417
+msgid "Plugin crop images with same size thumbnails"
+msgstr ""
+
+#: help_and_support.php:8
+msgid "plugin is allow users to view larger versions of images,"
+msgstr ""
+
+#: help_and_support.php:35
+msgid "Question"
+msgstr ""
+
+#: simple-lightbox-gallery.php:421 help_and_support.php:13
+msgid "Rate Us"
+msgstr ""
+
+#: simple-lightbox-gallery.php:307 simple-lightbox-gallery.php:308
+msgid "Rate us on WordPress"
+msgstr ""
+
+#: simple-lightbox-gallery.php:206
+msgid "S. Lightbox Gallery"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:395
+msgid "Sans"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:396
+msgid "Sans-Serif"
+msgstr ""
+
+#: simple-lightbox-gallery.php:215
+msgid "Search Gallery"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:307
+msgid "Select an option for thumbnail layout setting"
+msgstr ""
+
+#: simple-lightbox-gallery.php:669
+msgid "Select Lightbox Gallery To Insert Into Post"
+msgstr ""
+
+#: simple-lightbox-gallery.php:628
+msgid "Select Lightbox Gallery to insert into post"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:171
+msgid "Select option to open link in save tab or in new tab"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:365
+msgid "Select Yes/No option for hover color opacity on images"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:265
+msgid "Select Yes/No option to hide or show gallery description"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:131
+msgid "Select Yes/No option to hide or show gallery title"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:427
+msgid "Select Yes/No option to hide or show Image Box Shadow"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:156
+msgid "Select Yes/No option to hide or show label on image"
+msgstr ""
+
+#: simple-lightbox-gallery.php:707
+msgid "Settings"
+msgstr ""
+
+#: help_and_support.php:29
+msgid "Share Us Your Suggestion"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:118
+msgid "Show Gallery Title"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:254
+msgid "Show Image Description"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:143
+msgid "Show Image Label"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:306
+msgid "Show Original Image As Thumbnails"
+msgstr ""
+
+#: simple-lightbox-gallery.php:420
+msgid "Show Us Some Love"
+msgstr ""
+
+#: help_and_support.php:6 help_and_support.php:14 help_and_support.php:52
+msgid "Simple Lightbox Gallery"
+msgstr ""
+
+#: simple-lightbox-gallery.php:630
+msgid "Simple Lightbox Gallery Shortcode"
+msgstr ""
+
+#: help_and_support.php:8
+msgid "simple slide shows and Gallery view with grid layout"
+msgstr ""
+
+#: simple-lightbox-gallery.php:418
+msgid "So please upload all gallery images using Add New Image button"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:244
+msgid "Stroke"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:445
+msgid "Style"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:229
+msgid ""
+"Swipe box lib. No longer Supported Wordpress 5.6 so we changed it to Light "
+"Gallery "
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:445
+msgid "Tag With Custom CSS"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:397
+msgid "Tahoma"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:330
+msgid "Text Background Color"
+msgstr ""
+
+#: help_and_support.php:16
+msgid "then please consider writing a positive feedback"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:281
+msgid "Three Column"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:290
+msgid "Thumbnail Layout"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:398
+msgid ""
+"Times New\n"
+"                        Roman"
+msgstr ""
+
+#: simple-lightbox-gallery.php:416
+msgid "Tips"
+msgstr ""
+
+#: help_and_support.php:52
+msgid "to change old server image url to new server image url"
+msgstr ""
+
+#: help_and_support.php:34
+msgid "Translate this plugin into your language"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:401
+msgid "Trebuchet MS"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:278
+msgid "Two Column"
+msgstr ""
+
+#: simple-lightbox-gallery.php:214
+msgid "Update Lightbox Gallery"
+msgstr ""
+
+#: help_and_support.php:51
+msgid "Use this option after import"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:403
+msgid "Verdana"
+msgstr ""
+
+#: simple-lightbox-gallery.php:209
+msgid "View Gallery"
+msgstr ""
+
+#: help_and_support.php:31
+msgid "We will try our best to add them in this plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "Weblizar"
+msgstr ""
+
+#: simple-lightbox-slider-setting-metabox.php:208
+msgid "Write button title"
+msgstr ""
+
+#: help_and_support.php:17
+msgid ""
+"Your feedback will help us to encourage and support the plugin continued "
+"development and better user support"
+msgstr ""
